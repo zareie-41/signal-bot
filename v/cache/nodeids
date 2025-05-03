@@ -1,0 +1,4 @@
+[
+  "tests/test_indicators.py::test_sma",
+  "tests/test_strategy.py::test_strategy"
+]

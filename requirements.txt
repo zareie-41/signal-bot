@@ -1,0 +1,10 @@
+requests==2.32.3
+python-telegram-bot==20.3
+pandas==2.2.3
+numpy==2.2.5
+pandas-ta==0.3.14b0
+websocket-client==1.8.0
+python-dotenv==1.0.1
+pytest==8.3.2
+setuptools==70.0.0
+pyxt==0.6.24
